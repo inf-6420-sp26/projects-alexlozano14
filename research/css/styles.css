@@ -1,0 +1,7 @@
+/* selects only the p elements contained within header elements */
+
+.nav {
+  word-spacing: 30px;
+  font-weight: bold;
+  background-color: lightgrey
+}   
