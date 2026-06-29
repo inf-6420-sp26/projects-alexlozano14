@@ -1,0 +1,99 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin:0;
+    line-height: 1.5;
+    font-family: "Raleway";
+    font-weight: 100 900;
+    font-display: swap;
+
+
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+     
+
+}
+
+header{ 
+    color: #ffffff;
+    padding: 40px 0;
+    background-color: #000;
+    background-image: url("../images/paul-gilmore-145802-unsplash.jpg");
+    background-size: cover; 
+    background-position: center;
+  
+}
+
+h1{ 
+    font-family: "Raleway", sans-serif;
+    font-weight: normal;
+    font-size: 60px;
+    line-height: 20px;
+   
+   
+
+
+}
+.motto {
+    font-style: italic;
+    font-size: 1em;
+    line-height: 5px;
+}
+
+.menu {
+    background-color: #F0F0F0;
+}
+dd {
+    margin: 0;
+    padding-bottom: 1em;
+    
+}
+dl{
+    font-family: "Nunito Sans", sans-serif; 
+}
+h2{
+    font-family: "Raleway",sans-serif;
+    font-weight:normal;
+    font-size: 30px;
+    padding:2px;
+    margin: 0;
+
+}
+
+main{
+    background-color: #E0E0E0;
+    padding:5px;
+    margin:0;
+    
+}
+main p{
+    font-family:"Nunito Sans", sans-serif; 
+}
+img{
+    float: right;
+    margin: 10px;
+
+}
+footer {
+background-color: #3E1305;
+padding: 10px 0;
+color: #ffffff;
+}
+a{
+    color: #3E1305;
+}
+footer svg path { 
+
+    fill: #ffffff;
+}
+footer p {
+    font-family:"Nunito Sans", sans-serif;
+    padding: 0;
+    margin:0;
+    
+}
